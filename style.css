@@ -1,0 +1,150 @@
+body{
+
+	background-color: #ff9900;
+}
+
+
+.d-flex{
+	gap: calc(15px + 5%);
+	margin: auto;
+	padding-left: 400px;
+	padding-right: 400px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+
+
+
+.card{
+	margin: auto;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#titulo{
+	background-color: #0c0c16;
+	color: white;
+	max-width: 300px;
+	padding: 10px;
+	margin:auto;
+	
+}
+
+.card-img-overlay{
+	text-align: bottom;
+}
+
+
+
+#footer{
+	
+  	text-align: left;
+ 	padding: 50px;
+ 	background-color: #0c0c16;
+ 	color: white;
+	position: bottom;
+	  left: 0;
+	  bottom: 0;
+	  width: 100%;
+	
+}
+
+.card text-bg-dark mb-3{
+	height:150%;
+	width:150%;
+BACKGROUND-COLOR: #ff9900;
+;
+
+}
+
+
+.produto {
+	box-shadow: 0 4px 8px 0 #0c0c16;
+	max-width: 400px;
+	max-height: 900px;
+	margin: auto;
+	text-align: center;
+	background-color: white;
+  }
+  
+  .price {
+	color: grey;
+	font-size: 22px;
+  }
+  
+  .produto button {
+	
+	outline: 0;
+	padding: 12px;
+	color: white;
+	background-color: #0c0c16;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 20px;
+  }
+  
+  .produto button:hover {
+	opacity: 0.7;
+  }
+
+  .navbar{
+	color: white;
+
+  }
+
+  .badge text-bg-secondary{
+	background-color: red;
+  }
+
+  #card text-bg-dark mb-3 {
+	height:300px;
+	width:150px;
+	background-color: #0c0c16;
+	padding: 15px;
+	font-size: larger;
+  }
+
+
+  .qualidades{
+	padding:50px;
+	margin: auto;
+	width: 50%;
+	height:90%;
+	
+}
+
+.inicio{
+	
+	gap: calc(5px + 5%);
+	margin:auto;
+	padding: 10px;
+}
+
+
+.jogos{
+	
+	gap: calc(5px + 5%);
+	margin: auto;
+	padding: 10px;
+	
+}
+.carosel1{
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-left:100px;
+	width:100%;
+}
+.carosel2{
+	margin-top:50px;
+	margin-bottom:50px;
+	width:130%;
+}
+
+.list-group-item{
+	width: 15rem;
+	color: white;
+	background-color: #0c0c16;
+
+}
